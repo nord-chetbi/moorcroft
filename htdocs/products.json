@@ -1,0 +1,514 @@
+[
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KC136000B7",
+    "PRICE": 1.14,
+    "URL": "KC0-KC1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MC134000PA01100",
+    "PRICE": 5,
+    "URL": "MC1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MC134000PA01300",
+    "PRICE": 5,
+    "URL": "MC1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MC134000PA01500",
+    "PRICE": 5,
+    "URL": "MC1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KC136V54T7",
+    "PRICE": 4.91,
+    "URL": "KC136-L3-V5-T5-D5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KC136V55T7",
+    "PRICE": 4.91,
+    "URL": "KC136-L3-V5-T5-D5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KC136V56T7",
+    "PRICE": 4.91,
+    "URL": "KC136-L3-V5-T5-D5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MC634V54TA01100",
+    "PRICE": 9.9,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MC634-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MC634V54TA01300",
+    "PRICE": 11.16,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MC634-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MC634V54TA01500",
+    "PRICE": 12.98,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MC634-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MC634V55TA01100",
+    "PRICE": 9.9,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MC634-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MC634V55TA01300",
+    "PRICE": 11.16,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MC634-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MC634V55TA01500",
+    "PRICE": 12.98,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MC634-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MC634V56TA01100",
+    "PRICE": 9.9,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MC634-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MC634V56TA01300",
+    "PRICE": 11.16,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MC634-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "15MM (8MM)",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MC634V56TA01500",
+    "PRICE": 12.98,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MC634-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KD136000B7",
+    "PRICE": 1.14,
+    "URL": "KD0-KD1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MD134000PA01100",
+    "PRICE": 5,
+    "URL": "MD1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MD134000PA01300",
+    "PRICE": 5,
+    "URL": "MD1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MD134000PA01500",
+    "PRICE": 5,
+    "URL": "MD1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KD136V54T7",
+    "PRICE": 4.91,
+    "URL": "KD136-L3-V5-T5-D5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KD136V55T7",
+    "PRICE": 4.91,
+    "URL": "KD136-L3-V5-T5-D5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KD136V56T7",
+    "PRICE": 4.91,
+    "URL": "KD136-L3-V5-T5-D5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MD634V54TA01100",
+    "PRICE": 9.9,
+    "URL": "MD634-D5-T5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MD634V54TA01300",
+    "PRICE": 11.16,
+    "URL": "MD634-D5-T5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MD634V54TA01500",
+    "PRICE": 12.98,
+    "URL": "MD634-D5-T5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MD634V55TA01100",
+    "PRICE": 9.9,
+    "URL": "MD634-D5-T5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MD634V55TA01300",
+    "PRICE": 11.16,
+    "URL": "MD634-D5-T5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MD634V55TA01500",
+    "PRICE": 12.98,
+    "URL": "MD634-D5-T5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MD634V56TA01100",
+    "PRICE": 9.9,
+    "URL": "MD634-D5-T5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MD634V56TA01300",
+    "PRICE": 11.16,
+    "URL": "MD634-D5-T5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "15MM (9.4MM)",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MD634V56TA01500",
+    "PRICE": 12.98,
+    "URL": "MD634-D5-T5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KB132000B9",
+    "PRICE": 1.05,
+    "URL": "KB1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MB135000PA05100",
+    "PRICE": 4.88,
+    "URL": "MB1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MB135000PA05300",
+    "PRICE": 7.73,
+    "URL": "MB1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MB135000PA05500",
+    "PRICE": 10.35,
+    "URL": "MB1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KB132V54T9",
+    "PRICE": 4.57,
+    "URL": "KB132D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KB132V55T9",
+    "PRICE": 4.57,
+    "URL": "KB132D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KB132V56T9",
+    "PRICE": 4.57,
+    "URL": "KB132D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MB635V54PA05100",
+    "PRICE": 9.06,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MB6-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MB635V54PA05300",
+    "PRICE": 11.66,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MB6-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MB635V54PA05500",
+    "PRICE": 14.25,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MB6-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MB635V55PA05100",
+    "PRICE": 9.06,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MB6-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MB635V55PA05300",
+    "PRICE": 11.66,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MB6-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MB635V55PA05500",
+    "PRICE": 14.25,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MB6-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MB635V56PA05100",
+    "PRICE": 9.06,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MB6-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MB635V56PA05300",
+    "PRICE": 11.66,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MB6-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "22MM",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MB635V56PA05500",
+    "PRICE": 14.25,
+    "URL": "http://www.atam.it/public/prodotti/4/en/MB6-D5-T5-V5_G4GB17_rev_1.pdf"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KA132000B9",
+    "PRICE": 1.05,
+    "URL": "KA0-KA1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MA134000PA05100",
+    "PRICE": 4.88,
+    "URL": "MA2-MA1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MA134000PA05300",
+    "PRICE": 7.73,
+    "URL": "MA2-MA1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "NONE",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MA134000PA05500",
+    "PRICE": 10.35,
+    "URL": "MA2-MA1_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KA132V54T9",
+    "PRICE": 4.57,
+    "URL": "KA132D5-T5-C5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KA132V55T9",
+    "PRICE": 4.57,
+    "URL": "KA132D5-T5-C5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "NONE",
+    "PART_NUMBER": "KA132V56T9",
+    "PRICE": 4.57,
+    "URL": "KA132D5-T5-C5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MA634V54PA05100",
+    "PRICE": 9.06,
+    "URL": "MA6-D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MA634V54PA05300",
+    "PRICE": 11.66,
+    "URL": "MA6-D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "24V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MA634V54PA05500",
+    "PRICE": 14.25,
+    "URL": "MA6-D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MA634V55PA05100",
+    "PRICE": 9.06,
+    "URL": "MA6-D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MA634V55PA05300",
+    "PRICE": 11.66,
+    "URL": "MA6-D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "115V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MA634V55PA05500",
+    "PRICE": 14.25,
+    "URL": "MA6-D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "1M",
+    "PART_NUMBER": "MA634V56PA05100",
+    "PRICE": 9.06,
+    "URL": "MA6-D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "3M",
+    "PART_NUMBER": "MA634V56PA05300",
+    "PRICE": 11.66,
+    "URL": "MA6-D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  },
+  {
+    "SIZE": "30MM",
+    "VOLTAGE": "230V",
+    "CABLE_LENGTH": "5M",
+    "PART_NUMBER": "MA634V56PA05500",
+    "PRICE": 14.25,
+    "URL": "MA6-D5-T5-V5_G4GB17_rev_1.pdf (atam.it)"
+  }
+]
